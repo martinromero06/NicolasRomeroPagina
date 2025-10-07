@@ -1,0 +1,48 @@
+body {
+    padding-left: 14em;
+    padding-right: 6em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    background-color: rgb(95, 95, 122);
+}
+
+ul.navbar {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 2em;
+    left: 2em;
+    width: 9em
+}
+
+h1 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif 
+}
+
+ul.navbar li {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    background: white;
+    margin: 0.5em 0;
+    padding: 0.4em;
+    border-right: 1em solid rgb(71, 68, 100) 
+}
+
+ul.navbar a {
+    text-decoration: none 
+}
+
+a:link {
+    color: rgb(71, 68, 100) 
+}
+
+a:visited {
+    color: rgb(0, 0, 0) 
+}
+
+address {
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 1em;
+    padding-top: 1em;
+    border-top: thin dotted 
+}
